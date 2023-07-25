@@ -2,7 +2,7 @@
 
 <img src="./assets/demo.gif" alt="Demonstração do projeto sendo executado.">
 
-> Slide do tipo stories do instagram criando durante o curso de typescript da Origamid.
+> Slide do tipo stories do instagram criado durante o curso de typescript da Origamid.
 
 <hr>
 
